@@ -11,7 +11,7 @@
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | ERD with Crow’s foot notation  | Content Cell  | [ERD with Crow’s foot notation](https://github.com/maeshakib/ERD-Crow-s-foot-notation) | Content Cell  |
 | bitcoin-price-prediction-with-ARIMA | Content Cell  |[prediction-with-Time-Series-ARIMA](https://maeshakib.github.io/bitcoin-price-prediction-with-ARIMA) | Content Cell  |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| ERD-RM-Database-Design-SQL queries  | Content Cell  |[ERD-RM-Database-Design-SQL queries](https://github.com/maeshakib/Student-Course-Management-ERD-to-Database-Design) | Content Cell  |
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
