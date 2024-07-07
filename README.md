@@ -10,7 +10,7 @@
 | Maven-Sales Power BI Dashboard  | Content Cell  |[Maven-Sales Power BI Dashboard](https://github.com/maeshakib/Maven-Sales-Challenge-april-2024) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | ERD with Crow’s foot notation  | Content Cell  | [ERD with Crow’s foot notation](https://github.com/maeshakib/ERD-Crow-s-foot-notation) | Content Cell  |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| bitcoin-price-prediction-with-ARIMA | Content Cell  |[prediction-with-Time-Series-ARIMA](https://maeshakib.github.io/bitcoin-price-prediction-with-ARIMA) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
