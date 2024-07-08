@@ -12,7 +12,7 @@
 | ERD with Crow’s foot notation  | Content Cell  | [ERD with Crow’s foot notation](https://github.com/maeshakib/ERD-Crow-s-foot-notation) | Content Cell  |
 | bitcoin-price-prediction-with-ARIMA | Content Cell  |[prediction-with-Time-Series-ARIMA](https://maeshakib.github.io/bitcoin-price-prediction-with-ARIMA) | Content Cell  |
 | ERD-RM-Database-Design-SQL queries  | Content Cell  |[ERD-RM-Database-Design-SQL queries](https://github.com/maeshakib/Student-Course-Management-ERD-to-Database-Design) | Content Cell  |
-| Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| Data-Quality-on-Population-Database-with 250+ SQL queries  | Data-Quality-on-Population-Database-with-SQL  | [QC with SQL](https://github.com/maeshakib/Data-Quality-on-Population-Database-SQL-Analysis) | private repo. please request for access  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
