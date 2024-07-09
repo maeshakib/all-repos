@@ -13,7 +13,7 @@
 | bitcoin-price-prediction-with-ARIMA | Content Cell  |[prediction-with-Time-Series-ARIMA](https://maeshakib.github.io/bitcoin-price-prediction-with-ARIMA) | Content Cell  |
 | ERD-RM-Database-Design-SQL queries  | Content Cell  |[ERD-RM-Database-Design-SQL queries](https://github.com/maeshakib/Student-Course-Management-ERD-to-Database-Design) | Content Cell  |
 | Data-Quality-on-Population-Database-with 250+ SQL queries  | Data-Quality-on-Population-Database-with-SQL  | [QC with SQL](https://github.com/maeshakib/Data-Quality-on-Population-Database-SQL-Analysis) | private repo. please request for access  |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| App-Rating-Prediction  | Content Cell  |[App-Rating-Prediction](https://github.com/maeshakib/App-Rating-Prediction-Models) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
