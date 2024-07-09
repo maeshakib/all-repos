@@ -1,8 +1,8 @@
 # all-repos
 
-| Projects  | Description | link | group |
+| Projects  | Description | link | Category |
 | ------------- | ------------- |------------- |------------- |
-|PowerBI-Dashboard-HouseRent  | Hi everyone, I have created a Visualization based on House rent dataset.  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) |  Content Cell  |
+|PowerBI-Dashboard-HouseRent  | Power BI dashboard for analyzing house rent and providing insights for all relevant stakeholders. | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) |  [Power BI](https://github.com/maeshakib/shakib_s_powerBI_all_repos)  |
 | Registration-and-profiling-of-900K-Rohingya-refugees  | Content Cell  | [Registration-and-profiling-of-900K-Rohingya-refugees](https://github.com/maeshakib/Registration-and-profiling-of-900K-Rohingya-refugees-in-Bangladesh-coxsbazar-operation) | Content Cell  |
 | Diphtheria-Vaccination-Campaign  | Content Cell  |[Diphtheria-Vaccination-Campaign](https://github.com/maeshakib/Diphtheria-Vaccination-Campaign-for-Rohingya-Refugees-in-Cox-s-Bazar) | Content Cell  |
 |COVID-19-Vaccination campaign  | Content Cell  |[COVID-19-Vaccination campaign](https://github.com/maeshakib/COVID-19-Vaccination-in-Cox-s-Bazar-Rohingya-Refugee-Camps) | Content Cell  |
@@ -18,7 +18,6 @@
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
- 
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
