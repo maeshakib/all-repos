@@ -14,7 +14,7 @@
 | ERD-RM-Database-Design-SQL queries  | Content Cell  |[ERD-RM-Database-Design-SQL queries](https://github.com/maeshakib/Student-Course-Management-ERD-to-Database-Design) | Database |
 | Data-Quality-on-Population-Database-with 250+ SQL queries  | Data-Quality-on-Population-Database-with-SQL  | [QC with SQL](https://github.com/maeshakib/Data-Quality-on-Population-Database-SQL-Analysis) | Database, SQL  |
 | App-Rating-Prediction  | predicting app ratings using kNN-5, Random Forest, Linear Regression, and Stacking models with Orange Data Mining.  |[App-Rating-Prediction](https://github.com/maeshakib/App-Rating-Prediction-Models) | Data Science   |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| Dynamics-CRM-Data-Pipeline  | CRM data Automated Replication to SQL server  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline) | CRM,SSIS,SQL Server  |
 | Content Cell  | Content Cell  | [PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
