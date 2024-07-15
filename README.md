@@ -16,7 +16,7 @@
 | App-Rating-Prediction  | predicting app ratings using kNN-5, Random Forest, Linear Regression, and Stacking models with Orange Data Mining.  |[App-Rating-Prediction](https://github.com/maeshakib/App-Rating-Prediction-Models) | Data Science   |
 | Dynamics-CRM-Data-Pipeline  | CRM data Automated Replication to SQL server  |[Dynamics-CRM-Data-Pipeline](https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline) | CRM,SSIS,SQL Server  |
 | Retail-Orders-Analysis-SQL-PBI  | Retail-Orders-Analysis-SQL-PBI  | [SQL-PBI](https://github.com/maeshakib/Wholesale-Retail-Orders-Analysis-SQL) | SQL,PBI |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| Sampling  | Sampling with R |[Sampling](https://github.com/maeshakib/Sampling-Methods) | R,Sampling |
 | Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
