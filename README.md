@@ -17,7 +17,7 @@
 | Dynamics-CRM-Data-Pipeline  | CRM data Automated Replication to SQL server  |[Dynamics-CRM-Data-Pipeline](https://github.com/maeshakib/Dynamics-CRM-Data-Pipeline) | CRM,SSIS,SQL Server  |
 | Retail-Orders-Analysis-SQL-PBI  | Retail-Orders-Analysis-SQL-PBI  | [SQL-PBI](https://github.com/maeshakib/Wholesale-Retail-Orders-Analysis-SQL) | SQL,PBI |
 | Sampling  | Sampling with R |[Sampling](https://github.com/maeshakib/Sampling-Methods) | R,Sampling |
-| Content Cell  | Content Cell  |[PowerBI-Dashboard-HouseRent](https://github.com/maeshakib/PowerBI-Dashboard-HouseRent) | Content Cell  |
+| TeamTaskManager  | Easy team task tracking using lists ,insights with Power BI dashboard  |[TeamTaskManager](https://github.com/maeshakib/TeamTaskManager) | List, PBI, Power Automate |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
