@@ -18,7 +18,7 @@
 | Retail-Orders-Analysis-SQL-PBI  | Retail-Orders-Analysis-SQL-PBI  | [SQL-PBI](https://github.com/maeshakib/Wholesale-Retail-Orders-Analysis-SQL) | SQL,PBI |
 | Sampling  | Sampling with R |[Sampling](https://github.com/maeshakib/Sampling-Methods) | R,Sampling |
 | TeamTaskManager  | Easy team task tracking using lists ,insights with Power BI dashboard  |[TeamTaskManager](https://github.com/maeshakib/TeamTaskManager) | List, PBI, Power Automate |
-| Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
+| Data-visualization-with-R  | This repository offers a comprehensive collection of useful charts and visualizations created using R.  | [Visualization-with-R](https://maeshakib.github.io/data-visualization-with-R) | R  | 
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
 | Content Cell  | Content Cell  |List all new or modified files | Content Cell  |
